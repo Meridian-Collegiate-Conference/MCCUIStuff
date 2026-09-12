@@ -1,9 +1,9 @@
 var r = document.querySelector(':root')
-function UpdateCamNames(){
-    document.getElementById("NameA").textContent = CamAName;
-    document.getElementById("NameB").textContent = CamBName;
-    document.getElementById("NameC").textContent = CamCName;
-    document.getElementById("NameD").textContent = CamDName;
+function UpdateCamNames() {
+  document.getElementById("NameA").textContent = CamAName;
+  document.getElementById("NameB").textContent = CamBName;
+  document.getElementById("NameC").textContent = CamCName;
+  document.getElementById("NameD").textContent = CamDName;
 }
 
 function UpdatePreds() {
@@ -20,19 +20,19 @@ function UpdateImgs() {
   document.getElementById("DImg").src = CamDPredLogo;
 }
 
-function UIColors(){
-    r.style.setProperty('--HomeColor', HomeColor);
-    r.style.setProperty('--AwayColor', AwayColor);
-    r.style.setProperty('--TertiaryColor', TertiaryColor);
+function UIColors() {
+  r.style.setProperty('--HomeColor', HomeColor);
+  r.style.setProperty('--AwayColor', AwayColor);
+  r.style.setProperty('--TertiaryColor', TertiaryColor);
 }
 
 UIColors();
 window.addEventListener("keydown", (e) => {
-        if (e.key.toLowerCase() === "p") {
-          document.getElementById("mainGrid").classList.toggle("show-prediction");
-        }
-      });
+  if (e.key.toLowerCase() === "p") {
+    document.getElementById("mainGrid").classList.toggle("show-prediction");
+  }
+});
 
-      window.togglePredictions = () => {
-        document.getElementById("mainGrid").classList.toggle("show-prediction");
-      };
+window.togglePredictions = () => {
+  document.getElementById("mainGrid").classList.toggle("show-prediction");
+};
