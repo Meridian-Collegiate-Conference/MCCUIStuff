@@ -1,0 +1,81 @@
+:root {
+  --main-font: "Rajdhani", sans-serif;
+  --HomeColor: #001927;
+  --AwayColor: #7f449a;
+  --TertiaryColor: #231f20;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: "Rajdhani", sans-serif;
+  background-color: var(--TertiaryColor);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding-bottom: 120px;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  width: 50%;
+  max-width: 1200px;
+  transform: translateX(20px);
+}
+
+.column {
+  flex: 1;
+  height: 120px;
+  background: var(--TertiaryColor);
+  color: white;
+  text-transform: uppercase;
+  clip-path: polygon(15% 0%, 100% 0%, 85% 100%, 0% 100%);
+  margin-right: -4.5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.column:last-child {
+  margin-right: 0;
+}
+
+.headert {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 5rem;
+  transform: skewX(-5deg);
+  transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.image-container {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: skewX(10deg);
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transform: skewX(-10deg);
+}
+
+.homebg {
+  background: var(--HomeColor);
+}
+
+.bg {
+  background: var(--TertiaryColor);
+}
+
+.awaybg {
+  background: var(--AwayColor);
+}

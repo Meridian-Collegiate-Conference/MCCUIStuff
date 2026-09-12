@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <link rel="stylesheet" href="style.css" />
+  <body>
+    <!-- This is the scorebug section -->
+    <div id="TopBarText">this is a test of the top bar</div>
+    <div id="navbar">
+      <div class="logo" id="home-logo">
+        <img
+          class="image"
+          src="https://meridiancollegiatehub.com/logos/mcc-shield.png"
+          alt="Logo"
+          id="HImage"
+        />
+      </div>
+      <ul class="topic-list" id="list">
+        <li class="hometopic teamname" id="hometeam">Home</li>
+        <li class="hometopic" id="home_score">0</li>
+        <li class="topict" id="time">0:00</li>
+        <li class="awaytopic" id="away_score">0</li>
+        <li class="awaytopic teamname" id="awayteam">Away</li>
+      </ul>
+      <div class="logo" id="away-logo">
+        <img
+          class="image"
+          src="https://meridiancollegiatehub.com/logos/mcc-shield.png"
+          alt="Away Logo"
+          id="AImage"
+        />
+      </div>
+    </div>
+    <div id="bottom-bar">
+      <div class="team-blank-score" id="home-series"></div>
+      <div class="series-text" id="BottomBarText">Series Test Text</div>
+      <div class="team-blank-score" id="away-series"></div>
+    </div>
+
+    <!-- This is the sideboost stuff -->
+    <div id="testside" class="sidebar"></div>
+    <div id="away-testside" class="sidebar away-sidebar"></div>
+
+    <!-- This is the boost meter -->
+    <canvas id="myCanvas" width="1920" height="1080"></canvas>
+    <svg
+      width="500"
+      height="500"
+      viewBox="0 0 500 500"
+      xmlns="http://www.w3.org/2000/svg"
+      xml:space="preserve"
+      style="
+        fill-rule: evenodd;
+        clip-rule: evenodd;
+        stroke-linecap: square;
+        stroke-linejoin: bevel;
+        stroke-miterlimit: 1.5;
+      "
+      id="boost-meter"
+    >
+      <circle cx="250" cy="250" r="125" class="BoostCircle" />
+      <g>
+        <path
+          d="M249.225 346.968h1.55v9.997h-1.55zm-105.416-98.517h9.997V250h-9.997zm108.515-95.419h-1.549v-9.997h1.549zM347.743 250h9.997v1.549h-9.997z"
+          class="BoostTick"
+          id="BoostTick"
+        />
+      </g>
+      <g>
+        <text id="boost-number" x="250" y="254" dominant-baseline="middle">
+          25
+        </text>
+      </g>
+    </svg>
+
+    <!-- This is the live stats -->
+    <div class="parent" id="StatbugItem">
+      <div class="namediv" id="StatbugName">This is a Test</div>
+      <div class="stat">Score</div>
+      <div class="stat">Goals</div>
+      <div class="stat">Shots</div>
+      <div class="stat">Assists</div>
+      <div class="stat">Saves</div>
+      <div class="stat">Demos</div>
+      <div class="statdata" id="score">4</div>
+      <div class="statdata" id="goals">6</div>
+      <div class="statdata" id="shots">10</div>
+      <div class="statdata" id="assists">8</div>
+      <div class="statdata" id="saves">12</div>
+      <div class="statdata" id="demos">14</div>
+    </div>
+    <div class="TestSting" id="StingerTest">
+      <div id="StingImage">
+        <img
+          src="https://meridiancollegiatehub.com/logos/mcc-shield.png"
+          alt="Away Logo"
+          id="StingerImage"
+        />
+      </div>
+      <div id="StingTest">Team Name</div>
+    </div>
+    <!-- The scorecard for replays -->
+    <div id="ReplayScorecard">
+      <div id="ScorerName">Name</div>
+      <div id="GoalExtras">
+        <div id="ScoreAssist">
+          <img src="Assist_points_icon.webp" />Assists
+        </div>
+        <div id="GoalSpeed">000 kph</div>
+      </div>
+    </div>
+  </body>
+  <script src="CustomizeHere.js"></script>
+  <script src="Editable.js"></script>
+  <script src="APIFormat.js"></script>
+</html>
+>

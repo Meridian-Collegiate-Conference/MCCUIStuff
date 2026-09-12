@@ -1,0 +1,12 @@
+{
+	"projectName": "TestProject",
+	"worksheetName": "Sheet1",
+	"spreadsheetId": "16xWbtxtUse0tDi_i-t610ALZs0ygU-5HqfUdnmpQdPc",
+	"cells": [
+		{ "cell": "B2", "name": "team1Name" },
+		{ "cell": "B3", "name": "team1Logo", "fileExtension": "png" },
+		{ "cell": "B4", "name": "team2Name" },
+		{ "cell": "B5", "name": "team2Logo", "fileExtension": "png" },
+		{ "cell": "B6", "name": "marqueeText", "pad": "15" }
+	]
+}

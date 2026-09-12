@@ -1,0 +1,100 @@
+:root {
+  --main-font: "Rajdhani", sans-serif;
+  --HomeColor: #001927;
+  --AwayColor: #7f449a;
+  --TertiaryColor: #231f20;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: "Rajdhani", sans-serif;
+  height: 1080px;
+  display: flex;
+  align-items: flex-end; /* Note for Self: Changee this part for different areas */
+}
+
+#navbar {
+  width: 100%;
+  background: var(--TertiaryColor);
+  display: flex;
+  align-items: center;
+  height: 120px;
+  container-type: inline-size;
+}
+#navbar::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 15%;
+  width: 85%;
+  height: 4px;
+  background: var(--AwayColor);
+}
+
+.header {
+  width: 15%;
+  background: var(--HomeColor);
+  height: 100%;
+  display: flex;
+  align-items: center;
+  font-size: 3vw;
+  font-style: italic;
+  justify-content: center;
+  font-weight: 700;
+  color: white;
+  letter-spacing: 2px;
+  clip-path: polygon(0 0, 100% 0, 85% 100%, 0% 100%);
+  padding-right: 2vw;
+}
+.topic-list {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0 20px;
+  flex-grow: 1;
+}
+.topic {
+  flex: 1;
+  padding: 0 25px;
+  font-size: 2rem;
+  font-weight: 600;
+  color: rgb(102, 102, 102);
+  text-transform: uppercase;
+  transition: all 2s cubic-bezier(0.16, 1, 0.3, 1);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  transform: skewX(-5deg);
+}
+
+.topic:not(:first-child)::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 2px;
+  background: rgba(102, 102, 102);
+  transform: skewX(-15deg);
+}
+.topic.active {
+  color: white;
+}
+.topic::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 6px;
+  background: var(--AwayColor);
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 1s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.topic.active::after {
+  transform: scaleX(0.7);
+}

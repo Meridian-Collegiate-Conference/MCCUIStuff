@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <link rel="stylesheet" href="style.css" />
+  <body class="statbg" id="statbackground">
+    <div id="StatTopBarText">this is a test of the top bar</div>
+    <div id="StatNavbar">
+      <div class="statlogo" id="home-logo">
+        <img
+          class="statimage"
+          src="https://meridiancollegiatehub.com/logos/penn-state.png"
+          alt="Logo"
+          id="statHImage"
+        />
+      </div>
+      <ul class="topic-list" id="list">
+        <li class="hometopic Statteamname" id="statHName">Penn State</li>
+        <li class="stathometopic" id="stat_home_score">0</li>
+        <li class="topict" id="statgame">Game #</li>
+        <li class="statawaytopic" id="stat_away_score">0</li>
+        <li class="awaytopic Statteamname" id="statAName">Washington State</li>
+      </ul>
+      <div class="statlogo" id="away-logo">
+        <img
+          class="statimage"
+          src="https://meridiancollegiatehub.com/logos/nebraska.png"
+          alt="Away Logo"
+          id="statAImage"
+        />
+      </div>
+    </div>
+    <div id="StatBottomBar">
+      <div class="team-blank-score" id="home-series">
+        <!-- <div class="StatTick" id="sh-tick-4"></div> -->
+        <!-- <div class="StatTick" id="sh-tick-3"></div>
+        <div class="StatTick" id="sh-tick-2"></div>
+        <div class="StatTick" id="sh-tick-1"></div> -->
+      </div>
+      <div class="statseries-text" id="StatBottomBarText">Series Test Text</div>
+      <div class="team-blank-score" id="away-series">
+        <!-- <div class="StatTick" id="sa-tick-1"></div>
+        <div class="StatTick" id="sa-tick-2"></div>
+        <div class="StatTick" id="sa-tick-3"></div> -->
+        <!-- <div class="StatTick" id="sa-tick-4"></div> -->
+      </div>
+    </div>
+
+    <!-- Stats Screen (Will likely be seperate file) -->
+    <div class="StatScreen">
+      <div class="PlayerStats ColumnStat" id="HomeData"></div>
+      <div class="PlayerColumn StatNames">
+        <div class="PlayerStats StatNames NameStatName">Player</div>
+        <div class="PlayerStats StatNames">Score</div>
+        <div class="PlayerStats StatNames">Goals</div>
+        <div class="PlayerStats StatNames">Shots</div>
+        <div class="PlayerStats StatNames">Assists</div>
+        <div class="PlayerStats StatNames">Saves</div>
+        <div class="PlayerStats StatNames">Demos</div>
+      </div>
+      <div class="PlayerStats ColumnStat" id="AwayData"></div>
+    </div>
+  </body>
+  <script src="fit-to-width.js"></script>
+  <script src="CustomizeHere.js"></script>
+  <script src="Editable.js"></script>
+  <script src="MCCStatPage.js"></script>
+</html>
+>

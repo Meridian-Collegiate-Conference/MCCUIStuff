@@ -1,0 +1,21 @@
+2026-45-20 14:45:13.463 [main] INFO  application.Main - ____________________
+2026-45-20 14:45:13.467 [main] INFO  application.Main - Starting up...
+2026-45-20 14:45:13.467 [main] INFO  application.Main -      _____
+2026-45-20 14:45:13.467 [main] INFO  application.Main -    .'     `.
+2026-45-20 14:45:13.467 [main] INFO  application.Main -   /  .-=-.  \  \  __
+2026-45-20 14:45:13.467 [main] INFO  application.Main -   | (  C\ \  \_.'')
+2026-45-20 14:45:13.467 [main] INFO  application.Main -  _\  `--' |,'   _/
+2026-45-20 14:45:13.467 [main] INFO  application.Main - /__`.____.'__.-'
+2026-45-20 14:45:13.468 [main] INFO  application.Main - ____________________
+2026-45-20 14:45:14.255 [JavaFX Application Thread] DEBUG application.models.PropertiesHolder - Reading all properties from the file
+2026-45-20 14:45:14.257 [JavaFX Application Thread] INFO  application.models.PropertiesHolder - 'apiKey' application property has been loaded
+2026-45-20 14:45:14.258 [JavaFX Application Thread] INFO  application.models.PropertiesHolder - 'apiKey.test.spreadsheetId' application property has been loaded
+2026-45-20 14:45:14.258 [JavaFX Application Thread] INFO  application.models.PropertiesHolder - 'apiKey.test.workbookId' application property has been loaded
+2026-45-20 14:45:14.258 [JavaFX Application Thread] INFO  application.models.PropertiesHolder - 'last.config' application property has been loaded
+2026-45-20 14:45:14.258 [JavaFX Application Thread] INFO  application.models.PropertiesHolder - 'http.port' application property has been loaded
+2026-45-20 14:45:14.258 [JavaFX Application Thread] INFO  application.models.PropertiesHolder - 'update.interval' application property has been loaded
+2026-45-20 14:45:14.478 [JavaFX Application Thread] DEBUG application.services.FileIO - Folder prepped: logs
+2026-45-20 14:45:14.479 [JavaFX Application Thread] DEBUG application.services.FileIO - Folder prepped: files
+2026-45-20 14:45:14.479 [JavaFX Application Thread] DEBUG application.services.FileIO - Folder prepped: temp
+2026-45-20 14:45:14.495 [JavaFX Application Thread] DEBUG application.threads.IntervalRunnable - Pausing.
+2026-45-20 14:45:25.122 [JavaFX Application Thread] INFO  application.Main - Stage is closing

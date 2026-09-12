@@ -1,0 +1,29 @@
+{
+	"projectName": "TeamFaceoff",
+	"worksheetName": "MainSheet",
+	"spreadsheetId": "16xWbtxtUse0tDi_i-t610ALZs0ygU-5HqfUdnmpQdPc",
+	"cells": [
+		{ "cell": "B2", "name": "HomeName" },
+		{ "cell": "C2", "name": "HomeLogo","fileExtension": "png"},
+		{ "cell": "B3", "name": "AwayName" },
+		{ "cell": "C3", "name": "AwayLogo", "fileExtension": "png" },
+		{ "cell": "B6", "name": "TopBar"},
+		{ "cell": "B7", "name": "BottomBar"},
+		{ "cell": "C8", "name": "MaxWins"},
+		{ "cell": "B11", "name": "TopicName"},
+		{ "cell": "H4", "name": "CamAName" },
+		{ "cell": "H5", "name": "CamAPred"},
+		{ "cell": "H6", "name": "CamAPredLogo","fileExtension": "png"},
+		{ "cell": "I4", "name": "CamBName" },
+		{ "cell": "I5", "name": "CamBPred"},
+		{ "cell": "I6", "name": "CamBPredLogo","fileExtension": "png"},
+		{ "cell": "J4", "name": "CamCName" },
+		{ "cell": "J5", "name": "CamCPred"},
+		{ "cell": "J6", "name": "CamCPredLogo","fileExtension": "png"},
+		{ "cell": "K4", "name": "CamDName" },
+		{ "cell": "K5", "name": "CamDPred"},
+		{ "cell": "K6", "name": "CamDPredLogo","fileExtension": "png"},
+		{ "cell": "B16", "name": "ImageSceneA","fileExtension": "png"},
+		{ "cell": "B17", "name": "ImageSceneB","fileExtension": "png"}
+	]
+}
