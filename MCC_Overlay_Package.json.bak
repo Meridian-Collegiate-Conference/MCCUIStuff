@@ -1,5 +1,29 @@
 {
     "name": "MCC Overlay Package",
+    "DesktopAudioDevice1": {
+        "prev_ver": 536936449,
+        "name": "SE.Live audio wrapper source on canvas: 7ebedc62-69c0-4da5-a554-a2fa49119b13",
+        "uuid": "4118a602-2178-406f-b0b8-dcb6dd366c0f",
+        "id": "streamelements_transition_audio_wrapper_source",
+        "versioned_id": "streamelements_transition_audio_wrapper_source",
+        "settings": {},
+        "mixers": 0,
+        "sync": 0,
+        "flags": 0,
+        "volume": 1.0,
+        "balance": 0.5,
+        "enabled": true,
+        "muted": false,
+        "push-to-mute": false,
+        "push-to-mute-delay": 0,
+        "push-to-talk": false,
+        "push-to-talk-delay": 0,
+        "hotkeys": {},
+        "deinterlace_mode": 0,
+        "deinterlace_field_order": 0,
+        "monitoring_type": 0,
+        "private_settings": {}
+    },
     "groups": [
         {
             "prev_ver": 536936449,
@@ -4289,17 +4313,33 @@
         },
         {
             "name": "Intermission"
-        },
-        {
-            "name": "Teaser"
         }
     ],
-    "current_scene": "Image Scene D",
-    "current_program_scene": "Image Scene D",
-    "canvases": [],
-    "current_transition": "Move",
+    "current_scene": "Stat Scene",
+    "current_program_scene": "Game Scene",
+    "canvases": [
+        {
+            "info": {
+                "name": "⛔ SE.Live: Managed Canvas (Unassigned)",
+                "uuid": "595e8411-ea9c-4827-9474-d6fea603c0b2",
+                "private": false,
+                "flags": 14
+            }
+        }
+    ],
+    "current_transition": "AlStinger",
     "transition_duration": 750,
     "transitions": [
+        {
+            "name": "MCC Audio",
+            "id": "obs_stinger_transition",
+            "settings": {
+                "tp_type": 1,
+                "transition_point": 50,
+                "audio_monitoring": 2,
+                "path": "C:/Users/amans/Downloads/MCC Stiff/Stinger/MCCUpdatedStinger.webm"
+            }
+        },
         {
             "name": "SummerSting 1",
             "id": "obs_stinger_transition",
@@ -4310,20 +4350,6 @@
             }
         },
         {
-            "name": "Fade to Color",
-            "id": "fade_to_color_transition",
-            "settings": {}
-        },
-        {
-            "name": "AlStinger",
-            "id": "obs_stinger_transition",
-            "settings": {
-                "path": "C:/Users/amans/Downloads/MCCUIStuff/TestAlt.webm",
-                "tp_type": 1,
-                "transition_point": 30
-            }
-        },
-        {
             "name": "MCC Sting",
             "id": "obs_stinger_transition",
             "settings": {
@@ -4331,16 +4357,6 @@
                 "transition_point": 50,
                 "audio_monitoring": 0,
                 "path": "C:/Users/amans/Downloads/MCCUIStuff/MCCUpdatedStinger.webm"
-            }
-        },
-        {
-            "name": "MCC Audio",
-            "id": "obs_stinger_transition",
-            "settings": {
-                "tp_type": 1,
-                "transition_point": 50,
-                "audio_monitoring": 2,
-                "path": "C:/Users/amans/Downloads/MCC Stiff/Stinger/MCCUpdatedStinger.webm"
             }
         },
         {
@@ -4361,6 +4377,20 @@
                 "zoom_out": 100.0,
                 "curve_out": 0.0
             }
+        },
+        {
+            "name": "Fade to Color",
+            "id": "fade_to_color_transition",
+            "settings": {}
+        },
+        {
+            "name": "AlStinger",
+            "id": "obs_stinger_transition",
+            "settings": {
+                "tp_type": 1,
+                "transition_point": 30,
+                "path": "C:/Users/amans/Downloads/MCCUIStuff/TestAlt.webm"
+            }
         }
     ],
     "quick_transitions": [
@@ -4369,20 +4399,6 @@
             "duration": 300,
             "hotkeys": [],
             "id": 1,
-            "fade_to_black": false
-        },
-        {
-            "name": "Move",
-            "duration": 750,
-            "hotkeys": [],
-            "id": 3,
-            "fade_to_black": false
-        },
-        {
-            "name": "SummerSting 1",
-            "duration": 300,
-            "hotkeys": [],
-            "id": 4,
             "fade_to_black": false
         },
         {
@@ -4410,7 +4426,7 @@
     "saved_projectors": [],
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": -6,
+    "scaling_level": -13,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "virtual-camera": {
@@ -7334,50 +7350,6 @@
         },
         {
             "prev_ver": 536936449,
-            "name": "BRB Vid",
-            "uuid": "efdd9ea2-281e-4c11-86be-02782e2ce7d7",
-            "id": "vlc_source",
-            "versioned_id": "vlc_source",
-            "settings": {
-                "playlist": [
-                    {
-                        "value": "C:/Users/amans/Videos/MCC Vids/MCC_season1_Montage/Week 1/AfishPOV_infield.mp4",
-                        "uuid": "1e5dbfc0-95b7-4d70-9204-2faaccfd691b",
-                        "selected": false,
-                        "hidden": false
-                    }
-                ],
-                "playback_behavior": "pause_unpause"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "VLCSource.PlayPause": [],
-                "VLCSource.Restart": [],
-                "VLCSource.Stop": [],
-                "VLCSource.PlaylistNext": [],
-                "VLCSource.PlaylistPrev": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 536936449,
             "name": "Cam1",
             "uuid": "029948dc-3f2f-46cf-b3b4-fe3203729023",
             "id": "browser_source",
@@ -9984,7 +9956,7 @@
             "id": "color_source",
             "versioned_id": "color_source_v3",
             "settings": {
-                "color": 4279440147
+                "color": 4280949011
             },
             "mixers": 0,
             "sync": 0,
@@ -10537,7 +10509,7 @@
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/IntermissionHeader.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "Bold",
+                    "style": "Mono",
                     "size": 256,
                     "flags": 1
                 },
@@ -12368,7 +12340,7 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 29,
+                "id_counter": 30,
                 "custom_size": false,
                 "items": [
                     {
@@ -12537,8 +12509,8 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "BRB Vid",
-                        "source_uuid": "efdd9ea2-281e-4c11-86be-02782e2ce7d7",
+                        "name": "Media",
+                        "source_uuid": "df45ccdb-4ad8-49e4-b4dd-169a5dd5bd98",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -12554,31 +12526,31 @@
                         "crop_top": 0,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 29,
+                        "id": 30,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 293.0,
-                            "y": -9.0
+                            "x": 294.0,
+                            "y": 0.0
                         },
                         "pos_rel": {
-                            "x": -1.235185146331787,
-                            "y": -1.0166666507720947
+                            "x": -1.2333333492279053,
+                            "y": -1.0
                         },
                         "scale": {
-                            "x": 0.8838541507720947,
-                            "y": 0.8842592835426331
+                            "x": 0.8760416507720947,
+                            "y": 0.8759258985519409
                         },
                         "scale_rel": {
-                            "x": 0.8838541507720947,
-                            "y": 0.8842592835426331
+                            "x": 0.8760416507720947,
+                            "y": 0.8759258985519409
                         },
                         "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 1.0,
+                            "y": 1.0
                         },
                         "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
+                            "x": 0.0018518518190830946,
+                            "y": 0.0018518518190830946
                         },
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -13722,12 +13694,12 @@
                         "id": 3,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 1680.0,
-                            "y": 970.0
+                            "x": 1663.0,
+                            "y": 972.0
                         },
                         "pos_rel": {
-                            "x": 1.3333333730697632,
-                            "y": 0.796296238899231
+                            "x": 1.3018518686294556,
+                            "y": 0.7999999523162842
                         },
                         "scale": {
                             "x": 1.0,
@@ -13738,11 +13710,11 @@
                             "y": 1.0
                         },
                         "bounds": {
-                            "x": 200.0,
+                            "x": 226.0,
                             "y": 120.0
                         },
                         "bounds_rel": {
-                            "x": 0.37037035822868347,
+                            "x": 0.4185185134410858,
                             "y": 0.2222222238779068
                         },
                         "scale_filter": "disable",
@@ -13832,8 +13804,8 @@
                 "libobs.hide_scene_item.28": [],
                 "libobs.show_scene_item.6": [],
                 "libobs.hide_scene_item.6": [],
-                "libobs.show_scene_item.29": [],
-                "libobs.hide_scene_item.29": [],
+                "libobs.show_scene_item.30": [],
+                "libobs.hide_scene_item.30": [],
                 "libobs.show_scene_item.5": [],
                 "libobs.hide_scene_item.5": [],
                 "libobs.show_scene_item.7": [],
@@ -14086,7 +14058,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     },
                     {
@@ -14475,7 +14447,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     },
                     {
@@ -14809,7 +14781,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     },
                     {
@@ -15215,6 +15187,41 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936449,
+            "name": "Media",
+            "uuid": "df45ccdb-4ad8-49e4-b4dd-169a5dd5bd98",
+            "id": "ffmpeg_source",
+            "versioned_id": "ffmpeg_source",
+            "settings": {
+                "local_file": "C:/Users/amans/Videos/MCC Vids/MCC Summer Circuit 2026 Montage/MCCDraftGo2.mp4"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "MediaSource.Restart": [],
+                "MediaSource.Play": [],
+                "MediaSource.Pause": [],
+                "MediaSource.Stop": []
+            },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -21192,149 +21199,17 @@
         },
         {
             "prev_ver": 536936449,
-            "name": "Teaser",
-            "uuid": "4e5abbb2-a4bb-4195-af20-e872cc14de2d",
-            "id": "scene",
-            "versioned_id": "scene",
-            "settings": {
-                "id_counter": 1,
-                "custom_size": false,
-                "items": [
-                    {
-                        "name": "Teaser Vid",
-                        "source_uuid": "2b578919-5b8d-4e8d-9ead-0afe6b576c51",
-                        "visible": true,
-                        "locked": false,
-                        "rot": 0.0,
-                        "scale_ref": {
-                            "x": 1920.0,
-                            "y": 1080.0
-                        },
-                        "align": 5,
-                        "bounds_type": 0,
-                        "bounds_align": 0,
-                        "bounds_crop": false,
-                        "crop_left": 0,
-                        "crop_top": 0,
-                        "crop_right": 0,
-                        "crop_bottom": 0,
-                        "id": 1,
-                        "group_item_backup": false,
-                        "pos": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "pos_rel": {
-                            "x": -1.7777777910232544,
-                            "y": -1.0
-                        },
-                        "scale": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "scale_rel": {
-                            "x": 1.0,
-                            "y": 1.0
-                        },
-                        "bounds": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "bounds_rel": {
-                            "x": 0.0,
-                            "y": 0.0
-                        },
-                        "scale_filter": "disable",
-                        "blend_method": "default",
-                        "blend_type": "normal",
-                        "show_transition": {
-                            "duration": 300
-                        },
-                        "hide_transition": {
-                            "duration": 300
-                        },
-                        "private_settings": {}
-                    }
-                ]
-            },
-            "mixers": 0,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "OBSBasic.SelectScene": [],
-                "libobs.show_scene_item.1": [],
-                "libobs.hide_scene_item.1": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 536936449,
-            "name": "Teaser Vid",
-            "uuid": "2b578919-5b8d-4e8d-9ead-0afe6b576c51",
-            "id": "vlc_source",
-            "versioned_id": "vlc_source",
-            "settings": {
-                "playlist": [
-                    {
-                        "value": "C:/Users/amans/Videos/MCC Vids/MCC Summer Circuit 2026 Montage/MCCDraftGo2.mp4",
-                        "uuid": "eddde884-4ba6-4e76-aecc-2b3d7709caf0",
-                        "selected": false,
-                        "hidden": false
-                    }
-                ]
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "VLCSource.PlayPause": [],
-                "VLCSource.Restart": [],
-                "VLCSource.Stop": [],
-                "VLCSource.PlaylistNext": [],
-                "VLCSource.PlaylistPrev": []
-            },
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 536936449,
             "name": "Timer",
             "uuid": "b50cf979-82d8-4987-a9c5-26d1e2b1cbeb",
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "14:56",
                 "extents": true,
                 "undo_uuid": "b50cf979-82d8-4987-a9c5-26d1e2b1cbeb",
+                "text": "00:00",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "Bold",
+                    "style": "Mono",
                     "size": 144,
                     "flags": 1
                 },

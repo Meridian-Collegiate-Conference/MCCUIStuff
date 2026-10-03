@@ -32,10 +32,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 660,
                 "cy": 420,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Cam1Rxt",
@@ -179,10 +179,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 660,
                 "cy": 420,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Cam2Rxt",
@@ -326,10 +326,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 660,
                 "cy": 420,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Cam3Rxt",
@@ -473,10 +473,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 660,
                 "cy": 419,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "Cam4Rxt",
@@ -620,10 +620,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 2942,
                 "cy": 2942,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "BGCOLOR",
@@ -824,10 +824,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 733,
                 "cy": 70,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "StatName1",
@@ -1028,10 +1028,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 732,
                 "cy": 70,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "AwayStat2",
@@ -1232,10 +1232,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 3,
                 "custom_size": true,
                 "cx": 732,
                 "cy": 70,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "StatName3",
@@ -1436,10 +1436,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 3,
                 "custom_size": true,
                 "cx": 732,
                 "cy": 70,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "StatName4",
@@ -1640,10 +1640,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 3,
                 "custom_size": true,
                 "cx": 732,
                 "cy": 70,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "AwayStat5",
@@ -1844,10 +1844,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 2,
                 "custom_size": true,
                 "cx": 1734,
                 "cy": 150,
+                "id_counter": 2,
                 "items": [
                     {
                         "name": "AwayTeamName",
@@ -1991,10 +1991,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 1734,
                 "cy": 150,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "HomeName",
@@ -2138,10 +2138,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
-                "cx": 2288,
+                "cx": 1353,
                 "cy": 981,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "HomeCar",
@@ -2285,10 +2285,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 3,
                 "custom_size": true,
                 "cx": 732,
                 "cy": 70,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "TeamStatName 4",
@@ -2489,10 +2489,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 3,
                 "custom_size": true,
                 "cx": 732,
                 "cy": 70,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "TeamAwayStat5",
@@ -2693,10 +2693,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 3,
                 "custom_size": true,
                 "cx": 732,
                 "cy": 70,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "TeamStatName 3",
@@ -2897,10 +2897,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 3,
                 "custom_size": true,
                 "cx": 732,
                 "cy": 70,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "AwayTeamStat 2",
@@ -3101,10 +3101,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 3,
                 "custom_size": true,
                 "cx": 733,
                 "cy": 70,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "TeamStatName 1",
@@ -3305,10 +3305,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 278,
                 "cy": 108,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "NextUpHome",
@@ -3452,10 +3452,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 0,
                 "custom_size": true,
                 "cx": 273,
                 "cy": 85,
+                "id_counter": 0,
                 "items": [
                     {
                         "name": "UF Away IMG",
@@ -3656,10 +3656,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 3,
                 "custom_size": true,
                 "cx": 273,
                 "cy": 85,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "LSF Away IMG",
@@ -3860,10 +3860,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 3,
                 "custom_size": true,
                 "cx": 273,
                 "cy": 85,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "LF Away IMG",
@@ -4064,10 +4064,10 @@
             "id": "group",
             "versioned_id": "group",
             "settings": {
-                "id_counter": 3,
                 "custom_size": true,
                 "cx": 274,
                 "cy": 85,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "GF Away IMG",
@@ -4282,6 +4282,9 @@
             "name": "Casting C + D"
         },
         {
+            "name": "BrowserStandings"
+        },
+        {
             "name": "Image Scene A"
         },
         {
@@ -4315,13 +4318,21 @@
             "name": "Intermission"
         }
     ],
-    "current_scene": "Stat Scene",
-    "current_program_scene": "Game Scene",
+    "current_scene": "Intermission",
+    "current_program_scene": "Intermission",
     "canvases": [
         {
             "info": {
                 "name": "⛔ SE.Live: Managed Canvas (Unassigned)",
                 "uuid": "595e8411-ea9c-4827-9474-d6fea603c0b2",
+                "private": false,
+                "flags": 14
+            }
+        },
+        {
+            "info": {
+                "name": "Aitum Vertical",
+                "uuid": "414e7bfb-fb9f-4a51-a2ca-a72ef1dd21b8",
                 "private": false,
                 "flags": 14
             }
@@ -4334,48 +4345,10 @@
             "name": "MCC Audio",
             "id": "obs_stinger_transition",
             "settings": {
-                "tp_type": 1,
-                "transition_point": 50,
                 "audio_monitoring": 2,
-                "path": "C:/Users/amans/Downloads/MCC Stiff/Stinger/MCCUpdatedStinger.webm"
-            }
-        },
-        {
-            "name": "SummerSting 1",
-            "id": "obs_stinger_transition",
-            "settings": {
+                "path": "C:/Users/amans/Downloads/MCC Stiff/Stinger/MCCUpdatedStinger.webm",
                 "tp_type": 1,
-                "transition_point": 50,
-                "path": "C:/Users/amans/Downloads/MCC Stiff/Stinger/MCCStingerB(1).webm"
-            }
-        },
-        {
-            "name": "MCC Sting",
-            "id": "obs_stinger_transition",
-            "settings": {
-                "tp_type": 1,
-                "transition_point": 50,
-                "audio_monitoring": 0,
-                "path": "C:/Users/amans/Downloads/MCCUIStuff/MCCUpdatedStinger.webm"
-            }
-        },
-        {
-            "name": "Move",
-            "id": "move_transition",
-            "settings": {
-                "transition_match": "None",
-                "transition_in": "None",
-                "transition_out": "None",
-                "undo_uuid": "43d45a7f-d6bb-4fc3-b85d-942c615df40c",
-                "transition_scale_match": 0,
-                "name_part_match": false,
-                "easing_in": 3,
-                "easing_out": 3,
-                "position_in": 80,
-                "zoom_in": 100.0,
-                "position_out": 96,
-                "zoom_out": 100.0,
-                "curve_out": 0.0
+                "transition_point": 50
             }
         },
         {
@@ -4384,12 +4357,50 @@
             "settings": {}
         },
         {
+            "name": "MCC Sting",
+            "id": "obs_stinger_transition",
+            "settings": {
+                "audio_monitoring": 0,
+                "path": "C:/Users/amans/Downloads/MCCUIStuff/MCCUpdatedStinger.webm",
+                "tp_type": 1,
+                "transition_point": 50
+            }
+        },
+        {
+            "name": "Move",
+            "id": "move_transition",
+            "settings": {
+                "name_part_match": false,
+                "transition_in": "None",
+                "transition_match": "None",
+                "transition_out": "None",
+                "transition_scale_match": 0,
+                "undo_uuid": "43d45a7f-d6bb-4fc3-b85d-942c615df40c",
+                "easing_in": 3,
+                "easing_out": 3,
+                "position_in": 80,
+                "zoom_in": 100,
+                "position_out": 96,
+                "zoom_out": 100,
+                "curve_out": 0
+            }
+        },
+        {
+            "name": "SummerSting 1",
+            "id": "obs_stinger_transition",
+            "settings": {
+                "path": "C:/Users/amans/Downloads/MCC Stiff/Stinger/MCCStingerB(1).webm",
+                "tp_type": 1,
+                "transition_point": 50
+            }
+        },
+        {
             "name": "AlStinger",
             "id": "obs_stinger_transition",
             "settings": {
+                "path": "C:/Users/amans/Downloads/MCCUIStuff/TestAlt.webm",
                 "tp_type": 1,
-                "transition_point": 30,
-                "path": "C:/Users/amans/Downloads/MCCUIStuff/TestAlt.webm"
+                "transition_point": 30
             }
         }
     ],
@@ -4421,78 +4432,25 @@
             "hotkeys": [],
             "id": 7,
             "fade_to_black": false
+        },
+        {
+            "name": "Cut",
+            "duration": 300,
+            "hotkeys": [],
+            "id": 8,
+            "fade_to_black": false
         }
     ],
     "saved_projectors": [],
     "preview_locked": false,
     "scaling_enabled": false,
-    "scaling_level": -13,
+    "scaling_level": -10,
     "scaling_off_x": 0.0,
     "scaling_off_y": 0.0,
     "virtual-camera": {
         "type2": 3
     },
     "modules": {
-        "scripts-tool": [
-            {
-                "path": "C:/Users/amans/Downloads/advanced-timer.lua",
-                "settings": {
-                    "source": "Timer",
-                    "switch_to_scene": false,
-                    "reset_hotkey": [],
-                    "pause_hotkey": [],
-                    "duration": 900,
-                    "stop_text": "00:00",
-                    "mode": "Countdown",
-                    "a_mode": "Start timer on activation",
-                    "format": "%0m:%0s"
-                }
-            }
-        ],
-        "output-timer": {
-            "streamTimerHours": 0,
-            "streamTimerMinutes": 0,
-            "streamTimerSeconds": 30,
-            "recordTimerHours": 0,
-            "recordTimerMinutes": 0,
-            "recordTimerSeconds": 30,
-            "autoStartStreamTimer": false,
-            "autoStartRecordTimer": false,
-            "pauseRecordTimer": true
-        },
-        "auto-scene-switcher": {
-            "interval": 300,
-            "non_matching_scene": "",
-            "switch_if_not_matching": false,
-            "active": false,
-            "switches": []
-        },
-        "captions": {
-            "source": "",
-            "enabled": false,
-            "lang_id": 1033,
-            "provider": "mssapi"
-        },
-        "transition-table": {
-            "transitions": [
-                {
-                    "canvas": "Main",
-                    "from_scene": "Display",
-                    "to_scene": "Camera",
-                    "transition": "MCC Audio",
-                    "duration": 550
-                },
-                {
-                    "canvas": "Main",
-                    "from_scene": "Safety Scene",
-                    "to_scene": "Display",
-                    "transition": "MCC Sting",
-                    "duration": 550
-                }
-            ],
-            "enable_hotkey": [],
-            "disable_hotkey": []
-        },
         "advanced-scene-switcher": {
             "sceneGroups": [],
             "macros": [
@@ -6740,7 +6698,69 @@
                 "docks": []
             },
             "alwaysShowTabs": false
-        }
+        },
+        "auto-scene-switcher": {
+            "interval": 300,
+            "non_matching_scene": "",
+            "switch_if_not_matching": false,
+            "active": false,
+            "switches": []
+        },
+        "captions": {
+            "source": "",
+            "enabled": false,
+            "lang_id": 1033,
+            "provider": "mssapi"
+        },
+        "output-timer": {
+            "streamTimerHours": 0,
+            "streamTimerMinutes": 0,
+            "streamTimerSeconds": 30,
+            "recordTimerHours": 0,
+            "recordTimerMinutes": 0,
+            "recordTimerSeconds": 30,
+            "autoStartStreamTimer": false,
+            "autoStartRecordTimer": false,
+            "pauseRecordTimer": true
+        },
+        "scripts-tool": [
+            {
+                "path": "C:/Users/amans/Downloads/advanced-timer.lua",
+                "settings": {
+                    "pause_hotkey": [],
+                    "reset_hotkey": [],
+                    "source": "Timer",
+                    "switch_to_scene": false,
+                    "duration": 300,
+                    "stop_text": "00:00",
+                    "mode": "Countdown",
+                    "a_mode": "Start timer on activation",
+                    "format": "%0m:%0s"
+                }
+            }
+        ],
+        "transition-table": {
+            "transitions": [
+                {
+                    "canvas": "Main",
+                    "from_scene": "Display",
+                    "to_scene": "Camera",
+                    "transition": "MCC Audio",
+                    "duration": 550
+                },
+                {
+                    "canvas": "Main",
+                    "from_scene": "Safety Scene",
+                    "to_scene": "Display",
+                    "transition": "MCC Sting",
+                    "duration": 550
+                }
+            ],
+            "enable_hotkey": [],
+            "disable_hotkey": []
+        },
+        "copyTransformHotkey": [],
+        "pasteTransformHotkey": []
     },
     "resolution": {
         "x": 1920,
@@ -6811,14 +6831,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayPlayer.txt",
+                "read_from_file": true,
                 "undo_uuid": "b3f5aaaa-5f00-4025-bef0-28b5067a1585",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -6845,14 +6865,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayStat1.txt",
+                "read_from_file": true,
                 "undo_uuid": "ec520a3e-e3fe-48a1-90a3-bba77ba24e67",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -6879,14 +6899,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayStat2.txt",
+                "read_from_file": true,
                 "undo_uuid": "ec520a3e-e3fe-48a1-90a3-bba77ba24e67",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -6913,14 +6933,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayStat3.txt",
+                "read_from_file": true,
                 "undo_uuid": "ec520a3e-e3fe-48a1-90a3-bba77ba24e67",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -6947,14 +6967,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayStat4.txt",
+                "read_from_file": true,
                 "undo_uuid": "ec520a3e-e3fe-48a1-90a3-bba77ba24e67",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -6981,14 +7001,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayStat5.txt",
+                "read_from_file": true,
                 "undo_uuid": "ec520a3e-e3fe-48a1-90a3-bba77ba24e67",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -7015,14 +7035,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayName.txt",
+                "read_from_file": true,
                 "undo_uuid": "b3f5aaaa-5f00-4025-bef0-28b5067a1585",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -7049,14 +7069,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayTeamStat1.txt",
                 "read_from_file": true,
                 "undo_uuid": "ec520a3e-e3fe-48a1-90a3-bba77ba24e67",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayTeamStat1.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -7083,14 +7103,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayTeamStat2.txt",
                 "read_from_file": true,
                 "undo_uuid": "ec520a3e-e3fe-48a1-90a3-bba77ba24e67",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayTeamStat2.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -7117,14 +7137,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayTeamStat3.txt",
                 "read_from_file": true,
                 "undo_uuid": "ec520a3e-e3fe-48a1-90a3-bba77ba24e67",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayTeamStat3.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -7151,14 +7171,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayTeamStat4.txt",
                 "read_from_file": true,
                 "undo_uuid": "ec520a3e-e3fe-48a1-90a3-bba77ba24e67",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayTeamStat4.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -7186,7 +7206,7 @@
             "versioned_id": "color_source_v3",
             "settings": {
                 "undo_suuid": "ccf5d421-da24-48a9-a0da-9bcc2f2295e1",
-                "color": 4279440147
+                "color": 4280949011
             },
             "mixers": 0,
             "sync": 0,
@@ -7212,7 +7232,7 @@
             "id": "color_source",
             "versioned_id": "color_source_v3",
             "settings": {
-                "undo_suuid": "ccf5d421-da24-48a9-a0da-9bcc2f2295e1",
+                "undo_suuid": "d3a89033-64e3-4359-b933-e676c3d0f084",
                 "color": 4279440147
             },
             "mixers": 0,
@@ -7240,6 +7260,34 @@
             "versioned_id": "image_source",
             "settings": {
                 "file": "C:/Users/amans/Downloads/MCC Stiff/Desk Stuff/BG.png"
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936449,
+            "name": "BGColor",
+            "uuid": "c1317ffb-109b-4361-9451-75dac4f7f523",
+            "id": "color_source",
+            "versioned_id": "color_source_v3",
+            "settings": {
+                "color": 4280949011,
+                "width": 1080,
+                "height": 1920
             },
             "mixers": 0,
             "sync": 0,
@@ -7291,7 +7339,7 @@
                     "id": "scroll_filter",
                     "versioned_id": "scroll_filter",
                     "settings": {
-                        "speed_x": -15.0
+                        "speed_x": -15
                     },
                     "mixers": 0,
                     "sync": 0,
@@ -7346,6 +7394,243 @@
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936449,
+            "name": "Browser",
+            "uuid": "0966bd74-4f2e-476d-942e-82396c3a44e6",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "https://meridiancollegiate.org/standings/",
+                "width": 1920,
+                "height": 1080
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936449,
+            "name": "BrowserStandings",
+            "uuid": "535a9d59-f572-4639-baa9-39f34830bf1f",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 3,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "Browser",
+                        "source_uuid": "0966bd74-4f2e-476d-942e-82396c3a44e6",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "bounds_rel": {
+                            "x": 3.555555582046509,
+                            "y": 2.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "MyMic",
+                        "source_uuid": "a7a8c534-9f64-44c1-9a23-660994a7d2af",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Discord",
+                        "source_uuid": "05bd3fa5-9e08-485c-b822-7a5871934d3f",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 3,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": [],
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": [],
+                "libobs.show_scene_item.3": [],
+                "libobs.hide_scene_item.3": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "6c69626f-6273-4c00-9d88-c5136d61696e",
             "private_settings": {}
         },
         {
@@ -7636,8 +7921,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 17,
                 "custom_size": false,
+                "id_counter": 17,
                 "items": [
                     {
                         "name": "BGCOLOR",
@@ -8414,7 +8699,7 @@
                             "duration": 0
                         },
                         "private_settings": {
-                            "collapsed": false
+                            "collapsed": true
                         }
                     },
                     {
@@ -8749,6 +9034,13 @@
                         },
                         "private_settings": {}
                     }
+                ],
+                "canvas": [
+                    {
+                        "width": 1080,
+                        "height": 1920,
+                        "scene": "Vertical Cast AB"
+                    }
                 ]
             },
             "mixers": 0,
@@ -8796,8 +9088,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 13,
                 "custom_size": false,
+                "id_counter": 13,
                 "items": [
                     {
                         "name": "BGCOLOR",
@@ -9909,6 +10201,13 @@
                         },
                         "private_settings": {}
                     }
+                ],
+                "canvas": [
+                    {
+                        "width": 1080,
+                        "height": 1920,
+                        "scene": "Vertical Cast CD"
+                    }
                 ]
             },
             "mixers": 0,
@@ -9982,8 +10281,8 @@
             "id": "wasapi_process_output_capture",
             "versioned_id": "wasapi_process_output_capture",
             "settings": {
-                "window": "fast26, NiVeKks - Discord:Chrome_WidgetWin_1:Discord.exe",
-                "priority": 2
+                "priority": 2,
+                "window": "fast26, NiVeKks - Discord:Chrome_WidgetWin_1:Discord.exe"
             },
             "mixers": 255,
             "sync": 0,
@@ -10014,7 +10313,7 @@
                     "id": "limiter_filter",
                     "versioned_id": "limiter_filter",
                     "settings": {
-                        "threshold": -2.0
+                        "threshold": -2
                     },
                     "mixers": 255,
                     "sync": 0,
@@ -10091,6 +10390,39 @@
         },
         {
             "prev_ver": 536936449,
+            "name": "Game",
+            "uuid": "114914aa-606a-4023-80ca-06c373e18ffd",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 0,
+                "custom_size": false,
+                "items": [],
+                "order": 2,
+                "canvas_active": false
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "414e7bfb-fb9f-4a51-a2ca-a72ef1dd21b8",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936449,
             "name": "Game Overlay",
             "uuid": "5f268aab-e3da-444b-87c8-390996bae92f",
             "id": "browser_source",
@@ -10131,8 +10463,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 7,
                 "custom_size": false,
+                "id_counter": 7,
                 "items": [
                     {
                         "name": "Rocket League",
@@ -10354,6 +10686,13 @@
                         },
                         "private_settings": {}
                     }
+                ],
+                "canvas": [
+                    {
+                        "width": 1080,
+                        "height": 1920,
+                        "scene": "Game"
+                    }
                 ]
             },
             "mixers": 0,
@@ -10391,7 +10730,7 @@
             "id": "image_source",
             "versioned_id": "image_source",
             "settings": {
-                "file": "C:/Users/amans/Downloads/MCC Stiff/Desk Stuff/PLayerComps.png"
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/MCCStatsComp.png"
             },
             "mixers": 0,
             "sync": 0,
@@ -10469,13 +10808,13 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/GFMidText.txt",
+                "read_from_file": true,
                 "font": {
                     "face": "Rajdhani",
-                    "style": "Bold",
+                    "flags": 1,
                     "size": 48,
-                    "flags": 1
+                    "style": "Bold"
                 },
                 "align": "center",
                 "valign": "center",
@@ -10505,16 +10844,20 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/IntermissionHeader.txt",
+                "read_from_file": true,
                 "font": {
                     "face": "Rajdhani",
-                    "style": "Mono",
+                    "style": "SemiBold",
                     "size": 256,
                     "flags": 1
                 },
                 "align": "center",
-                "valign": "center"
+                "valign": "center",
+                "undo_suuid": "a265e20d-7d5c-4a8e-9fa6-47c94226e2df",
+                "bk_opacity": 0,
+                "bk_color": 4280745751,
+                "color": 16777215
             },
             "mixers": 0,
             "sync": 0,
@@ -10592,14 +10935,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomePlayer.txt",
+                "read_from_file": true,
                 "undo_uuid": "d6948251-8005-45ea-a0d8-056d09ad31d0",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -10626,14 +10969,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeStat1.txt",
+                "read_from_file": true,
                 "undo_uuid": "cc4fe1cd-a1a8-4be4-8377-6d1826be884b",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -10660,14 +11003,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeStat2.txt",
+                "read_from_file": true,
                 "undo_uuid": "cc4fe1cd-a1a8-4be4-8377-6d1826be884b",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -10694,14 +11037,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeStat3.txt",
+                "read_from_file": true,
                 "undo_uuid": "cc4fe1cd-a1a8-4be4-8377-6d1826be884b",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -10728,14 +11071,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeStat4.txt",
+                "read_from_file": true,
                 "undo_uuid": "cc4fe1cd-a1a8-4be4-8377-6d1826be884b",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -10762,14 +11105,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeStat5.txt",
+                "read_from_file": true,
                 "undo_uuid": "cc4fe1cd-a1a8-4be4-8377-6d1826be884b",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -10796,14 +11139,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeName.txt",
+                "read_from_file": true,
                 "undo_uuid": "d6948251-8005-45ea-a0d8-056d09ad31d0",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -10830,14 +11173,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeTeamStat1.txt",
                 "read_from_file": true,
                 "undo_uuid": "cc4fe1cd-a1a8-4be4-8377-6d1826be884b",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeTeamStat1.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -10864,14 +11207,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeTeamStat2.txt",
                 "read_from_file": true,
                 "undo_uuid": "cc4fe1cd-a1a8-4be4-8377-6d1826be884b",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeTeamStat2.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -10898,14 +11241,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeTeamStat3.txt",
                 "read_from_file": true,
                 "undo_uuid": "cc4fe1cd-a1a8-4be4-8377-6d1826be884b",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeTeamStat3.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -10932,14 +11275,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeTeamStat4.txt",
                 "read_from_file": true,
                 "undo_uuid": "cc4fe1cd-a1a8-4be4-8377-6d1826be884b",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeTeamStat4.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -10966,8 +11309,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 3,
                 "custom_size": false,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "ImageSourceA",
@@ -11169,8 +11512,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 3,
                 "custom_size": false,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "Image Source B",
@@ -11372,8 +11715,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 3,
                 "custom_size": false,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "Discord",
@@ -11575,8 +11918,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 3,
                 "custom_size": false,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "Discord",
@@ -11778,8 +12121,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 4,
                 "custom_size": false,
+                "id_counter": 4,
                 "items": [
                     {
                         "name": "Discord",
@@ -11981,8 +12324,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 4,
                 "custom_size": false,
+                "id_counter": 4,
                 "items": [
                     {
                         "name": "Discord",
@@ -12340,8 +12683,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 30,
                 "custom_size": false,
+                "id_counter": 33,
                 "items": [
                     {
                         "name": "BGCOLOOOR 2",
@@ -12509,8 +12852,8 @@
                         "private_settings": {}
                     },
                     {
-                        "name": "Media",
-                        "source_uuid": "df45ccdb-4ad8-49e4-b4dd-169a5dd5bd98",
+                        "name": "VLC Video",
+                        "source_uuid": "d17a6b59-27c0-4cc8-a41d-82925305cd0e",
                         "visible": true,
                         "locked": false,
                         "rot": 0.0,
@@ -12526,31 +12869,31 @@
                         "crop_top": 0,
                         "crop_right": 0,
                         "crop_bottom": 0,
-                        "id": 30,
+                        "id": 33,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 294.0,
+                            "x": 291.0,
                             "y": 0.0
                         },
                         "pos_rel": {
-                            "x": -1.2333333492279053,
+                            "x": -1.2388888597488403,
                             "y": -1.0
                         },
                         "scale": {
-                            "x": 0.8760416507720947,
-                            "y": 0.8759258985519409
+                            "x": 0.848437488079071,
+                            "y": 0.8481481671333313
                         },
                         "scale_rel": {
-                            "x": 0.8760416507720947,
-                            "y": 0.8759258985519409
+                            "x": 0.848437488079071,
+                            "y": 0.8481481671333313
                         },
                         "bounds": {
-                            "x": 1.0,
-                            "y": 1.0
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "bounds_rel": {
-                            "x": 0.0018518518190830946,
-                            "y": 0.0018518518190830946
+                            "x": 0.0,
+                            "y": 0.0
                         },
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -12782,7 +13125,7 @@
                             "duration": 300
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     },
                     {
@@ -13670,7 +14013,7 @@
                             "duration": 300
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     },
                     {
@@ -13749,12 +14092,12 @@
                         "id": 27,
                         "group_item_backup": false,
                         "pos": {
-                            "x": 333.0,
-                            "y": 924.0
+                            "x": 335.0,
+                            "y": 919.0
                         },
                         "pos_rel": {
-                            "x": -1.1611111164093018,
-                            "y": 0.7111110687255859
+                            "x": -1.1574074029922485,
+                            "y": 0.7018518447875977
                         },
                         "scale": {
                             "x": 1.0,
@@ -13766,11 +14109,11 @@
                         },
                         "bounds": {
                             "x": 1250.0,
-                            "y": 148.0
+                            "y": 120.0
                         },
                         "bounds_rel": {
                             "x": 2.314814805984497,
-                            "y": 0.27407407760620117
+                            "y": 0.2222222238779068
                         },
                         "scale_filter": "disable",
                         "blend_method": "default",
@@ -13804,8 +14147,8 @@
                 "libobs.hide_scene_item.28": [],
                 "libobs.show_scene_item.6": [],
                 "libobs.hide_scene_item.6": [],
-                "libobs.show_scene_item.30": [],
-                "libobs.hide_scene_item.30": [],
+                "libobs.show_scene_item.33": [],
+                "libobs.hide_scene_item.33": [],
                 "libobs.show_scene_item.5": [],
                 "libobs.hide_scene_item.5": [],
                 "libobs.show_scene_item.7": [],
@@ -13836,8 +14179,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 39,
                 "custom_size": false,
+                "id_counter": 39,
                 "items": [
                     {
                         "name": "BGCOLOR",
@@ -15048,13 +15391,13 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/LFMidText.txt",
+                "read_from_file": true,
                 "font": {
                     "face": "Rajdhani",
-                    "style": "Bold",
+                    "flags": 1,
                     "size": 48,
-                    "flags": 1
+                    "style": "Bold"
                 },
                 "align": "center",
                 "valign": "center",
@@ -15136,13 +15479,13 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/LSFMidText.txt",
+                "read_from_file": true,
                 "font": {
                     "face": "Rajdhani",
-                    "style": "Bold",
+                    "flags": 1,
                     "size": 48,
-                    "flags": 1
+                    "style": "Bold"
                 },
                 "align": "center",
                 "valign": "center",
@@ -15187,41 +15530,6 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {},
-            "deinterlace_mode": 0,
-            "deinterlace_field_order": 0,
-            "monitoring_type": 0,
-            "private_settings": {}
-        },
-        {
-            "prev_ver": 536936449,
-            "name": "Media",
-            "uuid": "df45ccdb-4ad8-49e4-b4dd-169a5dd5bd98",
-            "id": "ffmpeg_source",
-            "versioned_id": "ffmpeg_source",
-            "settings": {
-                "local_file": "C:/Users/amans/Videos/MCC Vids/MCC Summer Circuit 2026 Montage/MCCDraftGo2.mp4"
-            },
-            "mixers": 255,
-            "sync": 0,
-            "flags": 0,
-            "volume": 1.0,
-            "balance": 0.5,
-            "enabled": true,
-            "muted": false,
-            "push-to-mute": false,
-            "push-to-mute-delay": 0,
-            "push-to-talk": false,
-            "push-to-talk-delay": 0,
-            "hotkeys": {
-                "libobs.mute": [],
-                "libobs.unmute": [],
-                "libobs.push-to-mute": [],
-                "libobs.push-to-talk": [],
-                "MediaSource.Restart": [],
-                "MediaSource.Play": [],
-                "MediaSource.Pause": [],
-                "MediaSource.Stop": []
-            },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -15289,8 +15597,8 @@
                     "id": "noise_gate_filter",
                     "versioned_id": "noise_gate_filter",
                     "settings": {
-                        "open_threshold": -36.0,
-                        "close_threshold": -42.0
+                        "open_threshold": -36,
+                        "close_threshold": -42
                     },
                     "mixers": 255,
                     "sync": 0,
@@ -15316,7 +15624,33 @@
                     "id": "limiter_filter",
                     "versioned_id": "limiter_filter",
                     "settings": {
-                        "threshold": -2.0
+                        "threshold": -2
+                    },
+                    "mixers": 255,
+                    "sync": 0,
+                    "flags": 0,
+                    "volume": 1.0,
+                    "balance": 0.5,
+                    "enabled": true,
+                    "muted": false,
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "hotkeys": {},
+                    "deinterlace_mode": 0,
+                    "deinterlace_field_order": 0,
+                    "monitoring_type": 0,
+                    "private_settings": {}
+                },
+                {
+                    "prev_ver": 536936449,
+                    "name": "Gain",
+                    "uuid": "befc4605-d679-4599-8fc9-5cfb2611c029",
+                    "id": "gain_filter",
+                    "versioned_id": "gain_filter",
+                    "settings": {
+                        "db": 6.1
                     },
                     "mixers": 255,
                     "sync": 0,
@@ -15391,13 +15725,67 @@
         },
         {
             "prev_ver": 536936449,
+            "name": "PlanesMoving",
+            "uuid": "a637b4f5-01a2-4972-8a0e-da5091fcbb4d",
+            "id": "image_source",
+            "versioned_id": "image_source",
+            "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/MCCPlanesMovBG.png"
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {},
+            "filters": [
+                {
+                    "prev_ver": 536936449,
+                    "name": "Scroll",
+                    "uuid": "b4d0b59e-42e9-4863-a60b-51a5ffb3adbb",
+                    "id": "scroll_filter",
+                    "versioned_id": "scroll_filter",
+                    "settings": {
+                        "speed_x": -13.0
+                    },
+                    "mixers": 0,
+                    "sync": 0,
+                    "flags": 0,
+                    "volume": 1.0,
+                    "balance": 0.5,
+                    "enabled": true,
+                    "muted": false,
+                    "push-to-mute": false,
+                    "push-to-mute-delay": 0,
+                    "push-to-talk": false,
+                    "push-to-talk-delay": 0,
+                    "hotkeys": {},
+                    "deinterlace_mode": 0,
+                    "deinterlace_field_order": 0,
+                    "monitoring_type": 0,
+                    "private_settings": {}
+                }
+            ]
+        },
+        {
+            "prev_ver": 536936449,
             "name": "Player Comparison",
             "uuid": "0d1cc80f-c101-41a1-b74e-27e0d0aed789",
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 22,
                 "custom_size": false,
+                "id_counter": 22,
                 "items": [
                     {
                         "name": "BGCOLOOOR",
@@ -15617,7 +16005,9 @@
                         "hide_transition": {
                             "duration": 300
                         },
-                        "private_settings": {}
+                        "private_settings": {
+                            "collapsed": true
+                        }
                     },
                     {
                         "name": "GeneralUIBG",
@@ -17112,8 +17502,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 3,
                 "custom_size": false,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "Discord",
@@ -17315,8 +17705,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 3,
                 "custom_size": false,
+                "id_counter": 3,
                 "items": [
                     {
                         "name": "Discord",
@@ -17518,8 +17908,8 @@
             "id": "game_capture",
             "versioned_id": "game_capture",
             "settings": {
-                "window": "Rocket League (64-bit, DX11, Cooked):LaunchUnrealUWindowsClient:RocketLeague.exe",
                 "capture_audio": true,
+                "window": "Rocket League (64-bit, DX11, Cooked):LaunchUnrealUWindowsClient:RocketLeague.exe",
                 "capture_mode": "window"
             },
             "mixers": 255,
@@ -17619,13 +18009,13 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/IntermissionScroller.txt",
+                "read_from_file": true,
                 "font": {
                     "face": "Rajdhani",
-                    "style": "Medium",
+                    "flags": 0,
                     "size": 36,
-                    "flags": 0
+                    "style": "Medium"
                 },
                 "align": "center",
                 "valign": "center",
@@ -17655,7 +18045,7 @@
                     "id": "scroll_filter",
                     "versioned_id": "scroll_filter",
                     "settings": {
-                        "speed_x": 15.0
+                        "speed_x": 15
                     },
                     "mixers": 0,
                     "sync": 0,
@@ -17735,8 +18125,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 9,
                 "custom_size": false,
+                "id_counter": 9,
                 "items": [
                     {
                         "name": "BGCOLOR",
@@ -18895,8 +19285,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 4,
                 "custom_size": false,
+                "id_counter": 4,
                 "items": [
                     {
                         "name": "Stats",
@@ -19098,14 +19488,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/NameStat1.txt",
+                "read_from_file": true,
                 "undo_uuid": "28501422-d3ce-4cd8-b6d1-5ca9516e6fb3",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -19132,14 +19522,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/NameStat2.txt",
+                "read_from_file": true,
                 "undo_uuid": "28501422-d3ce-4cd8-b6d1-5ca9516e6fb3",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -19166,14 +19556,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/NameStat3.txt",
+                "read_from_file": true,
                 "undo_uuid": "28501422-d3ce-4cd8-b6d1-5ca9516e6fb3",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -19200,14 +19590,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/NameStat4.txt",
+                "read_from_file": true,
                 "undo_uuid": "28501422-d3ce-4cd8-b6d1-5ca9516e6fb3",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -19234,14 +19624,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/NameStat5.txt",
+                "read_from_file": true,
                 "undo_uuid": "e23e630f-61f7-4492-8b1c-f59b132a2369",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -19303,8 +19693,8 @@
             "id": "scene",
             "versioned_id": "scene",
             "settings": {
-                "id_counter": 36,
                 "custom_size": false,
+                "id_counter": 36,
                 "items": [
                     {
                         "name": "BGCOLOOOR",
@@ -20411,7 +20801,7 @@
                             "duration": 300
                         },
                         "private_settings": {
-                            "collapsed": true
+                            "collapsed": false
                         }
                     },
                     {
@@ -20966,14 +21356,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayTeamStat5.txt",
                 "read_from_file": true,
                 "undo_uuid": "ec520a3e-e3fe-48a1-90a3-bba77ba24e67",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/AwayTeamStat5.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -21000,14 +21390,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeTeamStat5.txt",
                 "read_from_file": true,
                 "undo_uuid": "cc4fe1cd-a1a8-4be4-8377-6d1826be884b",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/HomeTeamStat5.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -21034,14 +21424,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/TeamNameStat1.txt",
                 "read_from_file": true,
                 "undo_uuid": "28501422-d3ce-4cd8-b6d1-5ca9516e6fb3",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/TeamNameStat1.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -21068,14 +21458,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/TeamNameStat2.txt",
                 "read_from_file": true,
                 "undo_uuid": "28501422-d3ce-4cd8-b6d1-5ca9516e6fb3",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/TeamNameStat2.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -21102,14 +21492,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/TeamNameStat3.txt",
                 "read_from_file": true,
                 "undo_uuid": "28501422-d3ce-4cd8-b6d1-5ca9516e6fb3",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/TeamNameStat3.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -21136,14 +21526,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/TeamNameStat4.txt",
                 "read_from_file": true,
                 "undo_uuid": "28501422-d3ce-4cd8-b6d1-5ca9516e6fb3",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/TeamNameStat4.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -21170,14 +21560,14 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/TeamNameStat5.txt",
                 "read_from_file": true,
                 "undo_uuid": "e23e630f-61f7-4492-8b1c-f59b132a2369",
-                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/TeamNameStat5.txt",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "SemiBold",
+                    "flags": 1,
                     "size": 256,
-                    "flags": 1
+                    "style": "SemiBold"
                 }
             },
             "mixers": 0,
@@ -21205,13 +21595,13 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "extents": true,
+                "text": "04:12",
                 "undo_uuid": "b50cf979-82d8-4987-a9c5-26d1e2b1cbeb",
-                "text": "00:00",
                 "font": {
                     "face": "Rajdhani",
-                    "style": "Mono",
+                    "flags": 1,
                     "size": 144,
-                    "flags": 1
+                    "style": "Mono"
                 },
                 "align": "center",
                 "valign": "center",
@@ -21268,13 +21658,13 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "read_from_file": true,
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/UFMidText.txt",
+                "read_from_file": true,
                 "font": {
                     "face": "Rajdhani",
-                    "style": "Bold",
+                    "flags": 1,
                     "size": 48,
-                    "flags": 1
+                    "style": "Bold"
                 },
                 "align": "center",
                 "valign": "center",
@@ -21318,6 +21708,1132 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936449,
+            "name": "Vertical Cast AB",
+            "uuid": "db5ce2d7-2103-4dfb-8694-b9ce9b02fe95",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 8,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "BGColor",
+                        "source_uuid": "c1317ffb-109b-4361-9451-75dac4f7f523",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1080.0,
+                            "y": 1920.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 5,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -0.5625,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "PlanesMoving",
+                        "source_uuid": "a637b4f5-01a2-4972-8a0e-da5091fcbb4d",
+                        "visible": true,
+                        "locked": true,
+                        "rot": -20.0,
+                        "scale_ref": {
+                            "x": 1080.0,
+                            "y": 1920.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -2.0760416984558105,
+                            "y": -0.7020833492279053
+                        },
+                        "scale": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_rel": {
+                            "x": 1.6593749523162842,
+                            "y": 1.6593749523162842
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0010416667209938169,
+                            "y": 0.0010416667209938169
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Cam1Rxt",
+                        "source_uuid": "a768b35e-9bbf-4466-99fa-9b19531d9722",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 36,
+                        "group_item_backup": true,
+                        "pos": {
+                            "x": 9.9996337890625,
+                            "y": 15.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7592599391937256,
+                            "y": -0.9722222089767456
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Cam1",
+                        "source_uuid": "029948dc-3f2f-46cf-b3b4-fe3203729023",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 220,
+                        "crop_top": 50,
+                        "crop_right": 1040,
+                        "crop_bottom": 490,
+                        "id": 4,
+                        "group_item_backup": true,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0018518518190830946,
+                            "y": 0.0018518518190830946
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Camera 1",
+                        "source_uuid": "1641ae49-8bb9-49a8-b752-fe93db4bd8aa",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1080.0,
+                            "y": 1920.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 6,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -0.34375,
+                            "y": -0.6864585876464844
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        }
+                    },
+                    {
+                        "name": "Cam2Rxt",
+                        "source_uuid": "961f8690-a839-46c8-bb26-d7bda7c0e8c3",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 37,
+                        "group_item_backup": true,
+                        "pos": {
+                            "x": 10.0,
+                            "y": 15.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7592592239379883,
+                            "y": -0.9722222089767456
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Cam2",
+                        "source_uuid": "e58d7ab8-95dc-404c-b899-89865db4a652",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 1040,
+                        "crop_top": 50,
+                        "crop_right": 220,
+                        "crop_bottom": 490,
+                        "id": 5,
+                        "group_item_backup": true,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0018518518190830946,
+                            "y": 0.0018518518190830946
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Camera 2",
+                        "source_uuid": "da0d6fa4-e06e-4591-a2ed-87d0a1417dd5",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1080.0,
+                            "y": 1920.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 7,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -0.3437499701976776,
+                            "y": 0.011458158493041992
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        }
+                    },
+                    {
+                        "name": "ScoreCar",
+                        "source_uuid": "97f198bf-d899-4e9e-9f59-f1baa2715513",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1080.0,
+                            "y": 1920.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 8,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -0.878125011920929,
+                            "y": -0.1312500238418579
+                        },
+                        "scale": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_rel": {
+                            "x": 0.8661458492279053,
+                            "y": 0.8657407164573669
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ],
+                "order": 0,
+                "canvas_active": true
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": [],
+                "libobs.show_scene_item.6": [],
+                "libobs.hide_scene_item.6": [],
+                "libobs.show_scene_item.7": [],
+                "libobs.hide_scene_item.7": [],
+                "libobs.show_scene_item.8": [],
+                "libobs.hide_scene_item.8": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "414e7bfb-fb9f-4a51-a2ca-a72ef1dd21b8",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936449,
+            "name": "Vertical Cast CD",
+            "uuid": "3dffad81-e75d-43ab-801f-c67c3d37544a",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "id_counter": 7,
+                "custom_size": false,
+                "items": [
+                    {
+                        "name": "BGColor",
+                        "source_uuid": "c1317ffb-109b-4361-9451-75dac4f7f523",
+                        "visible": true,
+                        "locked": true,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1080.0,
+                            "y": 1920.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -0.5625,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "PlanesMoving",
+                        "source_uuid": "a637b4f5-01a2-4972-8a0e-da5091fcbb4d",
+                        "visible": true,
+                        "locked": true,
+                        "rot": -20.0,
+                        "scale_ref": {
+                            "x": 1080.0,
+                            "y": 1920.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -2.0760416984558105,
+                            "y": -0.7020833492279053
+                        },
+                        "scale": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_rel": {
+                            "x": 1.6593749523162842,
+                            "y": 1.6593749523162842
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0010416667209938169,
+                            "y": 0.0010416667209938169
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "ScoreCar",
+                        "source_uuid": "97f198bf-d899-4e9e-9f59-f1baa2715513",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1080.0,
+                            "y": 1920.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 5,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -0.878125011920929,
+                            "y": -0.1312500238418579
+                        },
+                        "scale": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_rel": {
+                            "x": 0.8661458492279053,
+                            "y": 0.8657407164573669
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Cam3Rxt",
+                        "source_uuid": "e2993ff0-11a0-4207-b3cd-e038b370ccb7",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 38,
+                        "group_item_backup": true,
+                        "pos": {
+                            "x": 10.0,
+                            "y": 14.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7592592239379883,
+                            "y": -0.9740740656852722
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Cam3",
+                        "source_uuid": "7f99f4b6-d03c-429f-ae27-65ecece81704",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 220,
+                        "crop_top": 490,
+                        "crop_right": 1040,
+                        "crop_bottom": 50,
+                        "id": 6,
+                        "group_item_backup": true,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0018518518190830946,
+                            "y": 0.0018518518190830946
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Camera 3",
+                        "source_uuid": "3ee91f9d-a0da-4fd8-bb9c-b3afcdde8597",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1080.0,
+                            "y": 1920.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 6,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -0.34375,
+                            "y": -0.6864585876464844
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {
+                            "collapsed": true
+                        }
+                    },
+                    {
+                        "name": "Cam4Rxt",
+                        "source_uuid": "fc8b5c07-ddc1-446d-935c-ac9caab7e475",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 39,
+                        "group_item_backup": true,
+                        "pos": {
+                            "x": 10.0,
+                            "y": 14.00006103515625
+                        },
+                        "pos_rel": {
+                            "x": -1.7592592239379883,
+                            "y": -0.9740739464759827
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Cam4",
+                        "source_uuid": "65e29b2f-7b81-409b-bf38-b324e27cea9b",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 1040,
+                        "crop_top": 491,
+                        "crop_right": 220,
+                        "crop_bottom": 50,
+                        "id": 7,
+                        "group_item_backup": true,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0018518518190830946,
+                            "y": 0.0018518518190830946
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Camera 4",
+                        "source_uuid": "d51cfc1e-748a-4e87-b0aa-d3cc680de352",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1080.0,
+                            "y": 1920.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 7,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -0.34375,
+                            "y": 0.011457204818725586
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ],
+                "order": 1,
+                "canvas_active": false
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": [],
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": [],
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": [],
+                "libobs.show_scene_item.6": [],
+                "libobs.hide_scene_item.6": [],
+                "libobs.show_scene_item.7": [],
+                "libobs.hide_scene_item.7": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "canvas_uuid": "414e7bfb-fb9f-4a51-a2ca-a72ef1dd21b8",
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936449,
+            "name": "VLC Video",
+            "uuid": "d17a6b59-27c0-4cc8-a41d-82925305cd0e",
+            "id": "vlc_source",
+            "versioned_id": "vlc_source",
+            "settings": {
+                "playlist": [
+                    {
+                        "value": "G:/My Drive/MCC Stuff/Archive/Summer 2026/Broadcast Stuff/IntermissionBGGames.mp4",
+                        "uuid": "08c1415c-46e0-4907-b5d9-410414bb327c",
+                        "selected": false,
+                        "hidden": false
+                    }
+                ],
+                "playback_behavior": "pause_unpause"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "VLCSource.PlayPause": [],
+                "VLCSource.Restart": [],
+                "VLCSource.Stop": [],
+                "VLCSource.PlaylistNext": [],
+                "VLCSource.PlaylistPrev": []
+            },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
