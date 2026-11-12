@@ -4342,6 +4342,15 @@
     "transition_duration": 750,
     "transitions": [
         {
+            "name": "AlStinger",
+            "id": "obs_stinger_transition",
+            "settings": {
+                "path": "C:/Users/amans/Downloads/MCCUIStuff/TestAlt.webm",
+                "tp_type": 1,
+                "transition_point": 30
+            }
+        },
+        {
             "name": "MCC Audio",
             "id": "obs_stinger_transition",
             "settings": {
@@ -4383,24 +4392,6 @@
                 "position_out": 96,
                 "zoom_out": 100,
                 "curve_out": 0
-            }
-        },
-        {
-            "name": "SummerSting 1",
-            "id": "obs_stinger_transition",
-            "settings": {
-                "path": "C:/Users/amans/Downloads/MCC Stiff/Stinger/MCCStingerB(1).webm",
-                "tp_type": 1,
-                "transition_point": 50
-            }
-        },
-        {
-            "name": "AlStinger",
-            "id": "obs_stinger_transition",
-            "settings": {
-                "path": "C:/Users/amans/Downloads/MCCUIStuff/TestAlt.webm",
-                "tp_type": 1,
-                "transition_point": 30
             }
         }
     ],
@@ -10846,6 +10837,7 @@
             "settings": {
                 "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/TeamFaceoff/IntermissionHeader.txt",
                 "read_from_file": true,
+                "undo_suuid": "a265e20d-7d5c-4a8e-9fa6-47c94226e2df",
                 "font": {
                     "face": "Rajdhani",
                     "style": "SemiBold",
@@ -10854,10 +10846,9 @@
                 },
                 "align": "center",
                 "valign": "center",
-                "undo_suuid": "a265e20d-7d5c-4a8e-9fa6-47c94226e2df",
-                "bk_opacity": 0,
+                "color": 16777215,
                 "bk_color": 4280745751,
-                "color": 16777215
+                "bk_opacity": 0
             },
             "mixers": 0,
             "sync": 0,
@@ -12684,7 +12675,7 @@
             "versioned_id": "scene",
             "settings": {
                 "custom_size": false,
-                "id_counter": 33,
+                "id_counter": 34,
                 "items": [
                     {
                         "name": "BGCOLOOOR 2",
@@ -14125,6 +14116,61 @@
                             "duration": 300
                         },
                         "private_settings": {}
+                    },
+                    {
+                        "name": "Media",
+                        "source_uuid": "6443a9b9-1977-4bac-b62f-2140a6f6f0e1",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "scale_ref": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 34,
+                        "group_item_backup": false,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "pos_rel": {
+                            "x": -1.7777777910232544,
+                            "y": -1.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_rel": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_rel": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 300
+                        },
+                        "hide_transition": {
+                            "duration": 300
+                        },
+                        "private_settings": {}
                     }
                 ]
             },
@@ -14164,7 +14210,9 @@
                 "libobs.show_scene_item.3": [],
                 "libobs.hide_scene_item.3": [],
                 "libobs.show_scene_item.27": [],
-                "libobs.hide_scene_item.27": []
+                "libobs.hide_scene_item.27": [],
+                "libobs.show_scene_item.34": [],
+                "libobs.hide_scene_item.34": []
             },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
@@ -15530,6 +15578,39 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 536936449,
+            "name": "Media",
+            "uuid": "6443a9b9-1977-4bac-b62f-2140a6f6f0e1",
+            "id": "ffmpeg_source",
+            "versioned_id": "ffmpeg_source",
+            "settings": {},
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "MediaSource.Restart": [],
+                "MediaSource.Play": [],
+                "MediaSource.Pause": [],
+                "MediaSource.Stop": []
+            },
             "deinterlace_mode": 0,
             "deinterlace_field_order": 0,
             "monitoring_type": 0,
@@ -21595,7 +21676,7 @@
             "versioned_id": "text_gdiplus_v3",
             "settings": {
                 "extents": true,
-                "text": "04:12",
+                "text": "01:10",
                 "undo_uuid": "b50cf979-82d8-4987-a9c5-26d1e2b1cbeb",
                 "font": {
                     "face": "Rajdhani",
@@ -21606,7 +21687,9 @@
                 "align": "center",
                 "valign": "center",
                 "extents_cx": 300,
-                "extents_cy": 150
+                "extents_cy": 150,
+                "read_from_file": true,
+                "file": "C:/Users/amans/Downloads/MCCUIStuff/SheetsIO/files/timer.txt"
             },
             "mixers": 0,
             "sync": 0,

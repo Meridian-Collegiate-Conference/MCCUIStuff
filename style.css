@@ -34,9 +34,28 @@ body {
   justify-content: center;
 }
 #time {
-  font-variant-numeric: tabular-nums;
+  color: white;
+  justify-content: center;
+  text-align: center;
+  flex-grow: 0;
+  flex-shrink: 0;
+  width: 180px;
+}
+#home_score,
+#away_score {
+  flex: 0 0 60px !important;
 }
 
+#time {
+  flex: 0 0 200px !important;
+}
+
+.teamname {
+  flex: 1 1 0% !important;
+  width: auto !important;
+}
+
+.home,
 .hometopic {
   flex: 1;
   padding: 0 15px;
@@ -620,7 +639,15 @@ canvas {
   text-align: center;
   /* border: #0c88fc solid 2px ; */
 }
-
+.HomeStatPlayerNames, .AwayStatPlayerNames {
+  white-space: normal; 
+  word-break: break-word; 
+  line-height: 1.1; 
+  height: 80px; 
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+}
 .statawaytopic {
   flex: 0;
   width: 5%;
